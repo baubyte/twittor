@@ -1,5 +1,5 @@
 
-var swUtilsLocation = '/js/sw-utils.js'
+var swUtilsLocation = 'js/sw-utils.js'
 //imports
 importScripts(swUtilsLocation);
 
